@@ -3,4 +3,6 @@
     bigint
     String ==> ""
     boolean 
+    null
+    undefined
 */
